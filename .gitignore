@@ -1,0 +1,6 @@
+# node modules backend
+node_modules
+
+# variables de entorno
+.env
+
